@@ -13,14 +13,14 @@ $ chmod +x wp-user-pass.py
 $ ./wp-user-pass.py
 ```
 
-## Ejecución 
+## Ejecución 💥
 ![](img/wp-user-pass-poc.png)
 
 
-## Punto a tener en cuenta 💥
+## Punto a tener en cuenta ⚡ 
 * Este programa no posee funcionalidades que le permitan bypassear restricciones (restricciones en número de solicitudes, WAF, número de intentos de inicio de sesión, etc). 
 
-## Motivos de la creación ⚡ 
+## Motivos de la creación 💥 
 * Practicar mis habilidades con Python3.
 * Crear una herramienta que pueda servir como aporte para la comunidad. 
 * Marcar un punto de referencia con código base para proyectos más grandes de otras personas.
