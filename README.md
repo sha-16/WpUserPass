@@ -25,4 +25,4 @@ $ tput cnorm
 
 **Nota:** cualquier bug o fallo que encuentres me gustaría que me lo hicieras saber, me ayudarías mucho 🤞❤
 
-Happy Hacking!
+**Happy Hacking!❤⚡**
