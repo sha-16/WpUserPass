@@ -15,12 +15,15 @@ class Checker:
             'pwd': 'random_password',
             'wp-submit': 'Log In'
         }
+        
+        try:
+            req = requests.post(self.url, data=data)
 
-        req = requests.post(self.url, data=data)
-
-        if 'The password you entered for the username' in req.text: 
-            return True 
-        return False
+            if 'The password you entered for the username' in req.text: 
+                return True 
+            return False
+        except: 
+            return False
 
 
     def check_file(self): 
