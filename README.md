@@ -13,6 +13,10 @@ $ chmod +x wp-user-pass.py
 $ ./wp-user-pass.py
 ```
 
+## Ejecución 
+![](img/wp-user-pass-poc.png)
+
+
 ## Punto a tener en cuenta 💥
 * Este programa no posee funcionalidades que le permitan bypassear restricciones (restricciones en número de solicitudes, WAF, número de intentos de inicio de sesión, etc). 
 
