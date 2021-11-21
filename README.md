@@ -14,7 +14,7 @@ $ ./wp-user-pass.py
 
 ## Motivos de la creación 
 * Practicar mis habilidades con Python3.
-* Crear una herramienta que pueda servir como aporte a la comunidad. 
+* Crear una herramienta que pueda servir como aporte para la comunidad. 
 * Marcar un punto de referencia con código base para proyectos más grandes de otras personas.
 
 ## Problemas 
