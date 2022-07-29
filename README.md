@@ -1,4 +1,4 @@
-# WP-USER-PASS
+# WpUserPass
 Esta es una herramienta que te permite hacer un ataque de fuerza bruta a un panel de login de WordPress teniendo como requisito único: 
 * **Un usuario válido**. 
 
